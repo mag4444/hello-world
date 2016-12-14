@@ -1,5 +1,12 @@
 package oo.main;
 
+/**
+ * 
+ * ¾î·Æ´Ù...
+ * 
+ * @author
+ *
+ */
 public class Main {
 	
 	public Main() {
