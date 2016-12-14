@@ -2,7 +2,7 @@ package oo.main;
 
 /**
  * 
- * 어렵다...
+ * 이건 fork 된 넘 것!
  * 
  * @author
  *
