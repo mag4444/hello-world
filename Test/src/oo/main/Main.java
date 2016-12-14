@@ -1,9 +1,21 @@
 package oo.main;
 
 public class Main {
+	
+	public Main() {
+		try {
+			process();
+		} catch (Throwable t) {
+			t.printStackTrace();
+		}
+	}
+
+	private void process() {
+		System.out.println("Hello, World!");
+	}
 
 	public static void main(String[] args) {
-		System.out.println("Hello, World!");
+		new Main();
 	}
 
 }
